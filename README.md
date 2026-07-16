@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ShamimCode/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ShamimCode/leetcode-solutions/tree/master/0018-4sum) |
+| [1768-merge-strings-alternately](https://github.com/ShamimCode/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ShamimCode/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/ShamimCode/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
