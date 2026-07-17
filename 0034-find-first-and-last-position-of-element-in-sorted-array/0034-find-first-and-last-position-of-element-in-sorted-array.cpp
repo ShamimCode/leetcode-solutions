@@ -1,7 +1,8 @@
 class Solution {
 public:
-    vector<int> searchRange(vector<int>& nums, int target) {
-        int first = -1, last = -1;
+
+    int firstOccurance(vector<int> nums, int target) {
+        int first = -1;
         int low = 0, high = nums.size() - 1;
         while (low <= high) {
             int mid = (low + high) / 2;
@@ -14,7 +15,12 @@ public:
                 high = mid - 1;
             }
         }
-        low = 0, high = nums.size() - 1;
+        return first;
+    }
+
+    int lastOccurance(vector<int> nums, int target) {
+        int last = -1;
+        int low = 0, high = nums.size() - 1;
         while (low <= high) {
             int mid = (low + high) / 2;
             if (nums[mid] == target) {
@@ -26,6 +32,13 @@ public:
                 high = mid - 1;
             }
         }
+        return last;
+    }
+
+    vector<int> searchRange(vector<int>& nums, int target) {
+        
+        int first = firstOccurance(nums, target);
+        int last = lastOccurance(nums, target);
 
         return {first, last};
     }
