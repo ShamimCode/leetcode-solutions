@@ -10,7 +10,6 @@ public:
             }
         }
 
-        i = 0;
         for (i = 0; i < s.size() && i <= idx && s[i] == '0'; i++) { }
 
         return s.substr(i, idx - i + 1);
