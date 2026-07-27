@@ -57,11 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/ShamimCode/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ShamimCode/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/ShamimCode/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+| [1903-largest-odd-number-in-string](https://github.com/ShamimCode/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ShamimCode/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ShamimCode/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/ShamimCode/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShamimCode/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShamimCode/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ShamimCode/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/ShamimCode/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ShamimCode/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1903-largest-odd-number-in-string](https://github.com/ShamimCode/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
