@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ShamimCode/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShamimCode/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/ShamimCode/leetcode-solutions/tree/master/0443-string-compression) |
+| [0796-rotate-string](https://github.com/ShamimCode/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ShamimCode/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ShamimCode/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/ShamimCode/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/ShamimCode/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ShamimCode/leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
