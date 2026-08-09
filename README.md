@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ShamimCode/leetcode-solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShamimCode/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/ShamimCode/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ShamimCode/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ShamimCode/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/ShamimCode/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShamimCode/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ShamimCode/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/ShamimCode/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ShamimCode/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/ShamimCode/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ShamimCode/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ShamimCode/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ShamimCode/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShamimCode/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/ShamimCode/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ShamimCode/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/ShamimCode/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ShamimCode/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ShamimCode/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
@@ -196,4 +199,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ShamimCode/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ShamimCode/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
