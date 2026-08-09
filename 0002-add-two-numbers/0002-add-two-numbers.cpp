@@ -26,7 +26,7 @@ public:
             if(temp2) temp2 = temp2->next;
             curr = curr->next;
         }
-        if(carry) curr->next = new ListNode(carry);
+        if(carry > 0) curr->next = new ListNode(carry);
         return dummyHead->next;
     }
 };
