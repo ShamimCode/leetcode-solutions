@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ShamimCode/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ShamimCode/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/ShamimCode/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0090-subsets-ii](https://github.com/ShamimCode/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0238-product-of-array-except-self](https://github.com/ShamimCode/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShamimCode/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/ShamimCode/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
@@ -231,8 +232,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ShamimCode/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ShamimCode/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ShamimCode/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/ShamimCode/leetcode-solutions/tree/master/0090-subsets-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ShamimCode/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/ShamimCode/leetcode-solutions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
