@@ -20,9 +20,9 @@ class Solution {
             k -= 1;
         }
 
-        if (st.isEmpty()) {
-            return "0";
-        }
+        // if (st.isEmpty()) {
+        //     return "0";
+        // }
 
         StringBuilder ans = new StringBuilder();
         for (char ch : st) {
