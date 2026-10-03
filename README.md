@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ShamimCode/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/ShamimCode/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/ShamimCode/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/ShamimCode/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShamimCode/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/ShamimCode/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/ShamimCode/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ShamimCode/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ShamimCode/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ShamimCode/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/ShamimCode/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -299,4 +302,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ShamimCode/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/ShamimCode/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/ShamimCode/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ShamimCode/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ShamimCode/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ShamimCode/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
