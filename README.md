@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ShamimCode/leetcode-solutions/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/ShamimCode/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShamimCode/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ShamimCode/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/ShamimCode/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/ShamimCode/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/ShamimCode/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ShamimCode/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ShamimCode/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ShamimCode/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/ShamimCode/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/ShamimCode/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/ShamimCode/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/ShamimCode/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/ShamimCode/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/ShamimCode/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/ShamimCode/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShamimCode/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/ShamimCode/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Stack
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ShamimCode/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ShamimCode/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShamimCode/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ShamimCode/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/ShamimCode/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ShamimCode/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/ShamimCode/leetcode-solutions/tree/master/0402-remove-k-digits) |
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ShamimCode/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShamimCode/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ShamimCode/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/ShamimCode/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ShamimCode/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ShamimCode/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
