@@ -16,7 +16,9 @@ class Solution {
                 maxArea = Math.max(area, maxArea);
             }
 
-            st.push(i);
+            if (i < heights.length) {
+                st.push(i);
+            }
         }
         return maxArea;
     }
