@@ -42,7 +42,6 @@ class Solution {
             int area = largestRectangleArea(height);
             maxArea = Math.max(area, maxArea);
         }
-
         return maxArea;
     }
 }
